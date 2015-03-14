@@ -1,0 +1,8 @@
+- pull : pour récupérer et merger les données 
+
+une fois qu'un développeur a modifier le projet il doit faire 
+- git add . : pour préparer quoi commiter (le point veux dire ajouter tout les docs qui ont été modifier)
+- git commit -m "commentaire" : le commentaire est un paramètre obligatoire (généralement il faut essayer de décrir ce 
+								qu'il a été modifier et pourquoi)
+- git push : pour envoyer votre travaille sur le repository (obligatoire pour que les autres puissent voir ce que vous 
+			avez fait "un commit ne suffit pas")
